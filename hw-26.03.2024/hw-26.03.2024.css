@@ -1,0 +1,80 @@
+.header {
+    height: 80px;
+    background-color: rgb(101, 210, 243);
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: rgb(224, 224, 224);
+}
+
+.titel-text {
+    color: rgb(101, 210, 243);
+}
+
+.row-titel {
+    height: 60px;
+    background-color: rgb(141, 215, 238);
+    color: white;
+}
+
+.btn {
+    height: 38px;
+    font-size: 16px;
+}
+
+.nav-link:active  {
+    color: rgb(101, 210, 243);
+}
+
+.form-check-input:checked {
+    border: 2px;
+}
+
+.form-control {
+    width: 350px;
+}
+
+.col {
+    margin: 10px 0;
+}
+
+.col-first {
+    max-width: 100px;
+}
+
+.col-two {
+    max-width: 200px;
+}
+
+.col-three {
+    max-width: 100px;
+}
+
+.col-four {
+    max-width: 200px;
+}
+
+.col-five {
+    max-width: 150px;
+}
+
+.col-six {
+    max-width: 150px;
+}
+
+.form-select {
+    height: 45px;
+}
+
+.col-eight {
+    max-width: 600px;
+} 
+
+.form-control {
+    height: 45px;
+}

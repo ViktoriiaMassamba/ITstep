@@ -1,0 +1,71 @@
+.header {
+    height: 80px;
+    background-color: rgb(101, 210, 243);
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: rgb(224, 224, 224);
+}
+
+.form-select {
+    width: 200px;
+}
+
+.form-label {
+    color: rgb(105, 102, 102);
+}
+
+.row {
+    height: 80px;
+}
+
+.btn {
+    height: 40px;
+    width: 100px;
+    background-color: rgb(101, 210, 243);
+    border: none;
+    color: white;
+}
+
+.row-titel {
+    height: 80px;
+    background-color: rgb(101, 210, 243);
+    color: white;
+}
+
+.col-first {
+    width: 80px;
+}
+
+.col-two {
+    width: 400px;
+}
+
+.col-three {
+    width: 200px;
+}
+
+.form-select {
+    color: rgb(122, 122, 122);
+}
+
+.form-select {
+    width: 200px;
+}
+
+.col-four {
+    width: 200px;
+}
+
+.col-five {
+    width: 200px;
+}
+
+.col-six {
+    width: 200px;
+}

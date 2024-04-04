@@ -1,0 +1,59 @@
+.header {
+    height: 80px;
+    background-color: rgb(101, 210, 243);
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: rgb(224, 224, 224);
+}
+
+h3 {
+    color: rgb(97, 97, 97);
+}
+
+.bi {
+    width: 25px;
+    height: 25px;
+}
+
+.main-titel {
+    height: 80px;
+}
+
+.titel-text:hover { 
+    color: rgb(20, 21, 70);
+}
+
+.titel-text {
+    color: rgb(101, 210, 243);
+}
+
+.bi-main {
+    width: 25px;
+    height: 25px;
+    color: rgb(101, 210, 243);
+}
+
+.table-success {
+    color: white;
+}
+
+ .row:first-of-type {
+    color: white;
+    height: 80px;
+    background-color: rgb(101, 210, 243);
+} 
+
+.col {
+    width: 150px;
+    border-color: darkgrey;
+}
+
+.col-first {
+    width: 50px;
+}
